@@ -6,7 +6,6 @@ This project implements the research paper
 It demonstrates the design and simulation of a **nonlinear feedback linearization controller** and **state observer** for a series-connected DC motor, including:
 
 - ✅ A **speed and load-torque observer** using encoder feedback  
-- ✅ A **sensorless observer** using only current measurements
 
 ---
 
